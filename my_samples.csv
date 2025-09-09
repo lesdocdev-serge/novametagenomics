@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+sample,fastq_1,fastq_2
+patient_001_plasma,/path/to/patient_001_R1.fastq.gz,/path/to/patient_001_R2.fastq.gz
+negative_control,/path/to/negative_control_R1.fastq.gz,/path/to/negative_control_R2.fastq.gz
